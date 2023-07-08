@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-movie-rating/static/css/main.c3a01249.css",
+    "main.js": "/ra-movie-rating/static/js/main.bae3bc6a.js",
+    "index.html": "/ra-movie-rating/index.html",
+    "main.c3a01249.css.map": "/ra-movie-rating/static/css/main.c3a01249.css.map",
+    "main.bae3bc6a.js.map": "/ra-movie-rating/static/js/main.bae3bc6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a01249.css",
+    "static/js/main.bae3bc6a.js"
+  ]
+}
