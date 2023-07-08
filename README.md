@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b5rharcbns9fmg5m?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-movie-rating)
+## [Проект](https://vmoiseev.github.io/ra-movie-rating/)
+
+
 Рейтинг фильмов
 ===
 
